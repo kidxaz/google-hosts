@@ -2,10 +2,7 @@
 
 [**What**](#what) \| [**How**](#how) \| [**Must**](#must) \| [**Contributing**](#contributing) \| [**License**](#license)
 
-[🗣 News](https://t.me/s/txthinking_news)
-[🩸 Youtube](https://www.youtube.com/txthinking) 
-
-❤️ A project by [txthinking.com](https://www.txthinking.com)
+**Sponsor**: [Shiliew - A network app designed for those who value their time](https://www.txthinking.com/shiliew.html)
 
 ## What
 
