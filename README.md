@@ -59,9 +59,9 @@ This project provides some tools to help you find google IP.
 **`auto.sh` find CIDR from a DNS and run find.sh, select.sh, apply.sh**
 
     $ cd google-hosts/scripts
-    $ ./auto.sh DNS # DNS is like 8.8.8.8, but you should try DNS in diffrent countries.
+    $ ./auto.sh DNS # DNS is like 8.8.8.8, but you should try DNS in different countries.
 
-Explaination of output 
+Explanation of output 
 
 | IP  | LOSS        | TIME      | SSL        |
 | --- | ----------- | --------- | ---------- |
